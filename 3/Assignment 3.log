@@ -1,0 +1,292 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.29)  5 JAN 2023 15:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Assignment 3.tex"
+(Assignment 3.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17>
+(C:\Users\HP\Desktop\latex2\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\HP\Desktop\latex2\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\HP\Desktop\latex2\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\HP\Desktop\latex2\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\HP\Desktop\latex2\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\HP\Desktop\latex2\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen143
+\captionmargin=\dimen144
+\caption@leftmargin=\dimen145
+\caption@rightmargin=\dimen146
+\caption@width=\dimen147
+\caption@indent=\dimen148
+\caption@parindent=\dimen149
+\caption@hangindent=\dimen150
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/csvsimple\csvsimple.sty
+(C:\Users\HP\Desktop\latex2\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+(C:\Users\HP\Desktop\latex2\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-12-17 L3 programming layer (loader) 
+
+(C:\Users\HP\Desktop\latex2\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
+)
+Package: csvsimple 2022/09/20 v2.3.2 LaTeX CSV file processing
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/csvsimple\csvsimple-legacy.sty
+Package: csvsimple-legacy 2022/09/20 version 2.3.2 LaTeX2e CSV file processing
+
+(C:\Users\HP\Desktop\latex2\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Users\HP\Desktop\latex2\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen151
+\pgfutil@tempdimb=\dimen152
+
+(C:\Users\HP\Desktop\latex2\tex/generic/pgf/utilities\pgfutil-common-lists.tex)
+) (C:\Users\HP\Desktop\latex2\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box52
+)
+(C:\Users\HP\Desktop\latex2\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Users\HP\Desktop\latex2\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\HP\Desktop\latex2\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Users\HP\Desktop\latex2\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(C:\Users\HP\Desktop\latex2\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))) (C:\Users\HP\Desktop\latex2\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read2
+\c@csvinputline=\count197
+\c@csvrow=\count198
+\c@csvcol=\count199
+\csv@out=\write3
+)
+(C:\Users\HP\Desktop\latex2\tex/generic/babel\babel.sty
+Package: babel 2022/12/26 3.84 The Babel package
+\babel@savecnt=\count266
+\U@D=\dimen153
+\l@unhyphenated=\language79
+
+(C:\Users\HP\Desktop\latex2\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count267
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\HP\Desktop\latex2\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\HP\Desktop\latex2\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
+)
+(C:\Users\HP\Desktop\latex2\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\HP\Desktop\latex2\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count268
+\c@Blindtext=\count269
+\c@blind@countparstart=\count270
+\blind@countxx=\count271
+\blindtext@numBlindtext=\count272
+\blind@countyy=\count273
+\c@blindlist=\count274
+\c@blindlistlevel=\count275
+\c@blindlist@level=\count276
+\blind@listitem=\count277
+\c@blind@listcount=\count278
+\c@blind@levelcount=\count279
+\blind@mathformula=\count280
+\blind@Mathformula=\count281
+\c@blind@randomcount=\count282
+\c@blind@randommax=\count283
+\c@blind@pangramcount=\count284
+\c@blind@pangrammax=\count285
+)
+
+LaTeX Warning: Unused global option(s):
+    [article].
+
+(Assignment 3.aux)
+\openout1 = `"Assignment 3.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+(C:\Users\HP\Desktop\latex2\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen154
+\scratchbox=\box53
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen155
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks24
+) (C:\Users\HP\Desktop\latex2\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\HP\Desktop\latex2\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 25.
+ [1
+
+{C:/Users/HP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 33.
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
+ [][] 
+ []
+
+[3]
+<instapic.png, id=16, 376.40625pt x 376.40625pt>
+File: instapic.png Graphic file (type png)
+<use instapic.png>
+Package pdftex.def Info: instapic.png  used on input line 78.
+(pdftex.def)             Requested size: 376.40532pt x 376.40532pt.
+ [4 <./instapic.png (PNG copy)>] (Assignment 3.aux) ) 
+Here is how much of TeX's memory you used:
+ 5942 strings out of 476407
+ 113959 string characters out of 2798032
+ 1855787 words of memory out of 3000000
+ 26230 multiletter control sequences out of 15000+600000
+ 520561 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,6n,77p,284b,303s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\HP\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\HP\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\HP\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\HP\App
+Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\HP\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
+Output written on "Assignment 3.pdf" (4 pages, 139829 bytes).
+PDF statistics:
+ 145 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

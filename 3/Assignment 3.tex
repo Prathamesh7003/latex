@@ -1,0 +1,84 @@
+\documentclass[a4paper,12pt,oneside,article]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+          
+\usepackage{graphicx}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{csvsimple}
+
+
+\usepackage[english]{babel}
+\usepackage{ragged2e}
+\usepackage{blindtext}
+\usepackage{csvsimple}
+\graphicspath{ {./images/} }
+
+
+\title{DTL Assignment 3}
+\author{Prathamesh Agawane 142203001} 
+\date{03-01-2023}
+
+\begin{document}
+
+\maketitle
+\newpage
+
+\vspace{1cm}
+\section{Tabular Data Entered:}
+
+
+\begin{center}
+\begin{tabular}{ |c|c|c|c| } 
+
+
+
+\hline
+
+
+\textbf{Sr no.   }&
+\textbf{Roll no.   }&
+\textbf{Marks }&
+\textbf{Grades  }\\
+
+
+ \hline
+1  &  3001  &  76 & B \\
+2  &  3002  & 99 & A+ \\
+3  &  3003  &  95  & A+ \\
+4  &  3004  &  35  & F \\
+
+ \hline
+
+\end{tabular}
+\end{center}		
+
+\newpage
+\section{Include table from CSV}
+				\begin{Center}
+					
+			
+	\begin{tabular}{|c|c|c|}%
+	\hline
+	\bfseries Name & \bfseries Age & \bfseries College
+	\csvreader[head to column names]{Book1.csv}{}
+	{\\\hline\csvcoli&\csvcolii&\csvcoliii}\\
+	\hline
+	\end{tabular}	
+	\end{Center}		
+
+
+\newpage
+\vspace{1cm}
+\begin{figure}
+\section{Image insert in Latex: }
+    \centering
+   
+    \includegraphics{instapic.png}
+    \caption{INSTGRAM ICON}
+    \label{fig:my_label}
+\end{figure}
+
+
+\end{document}
