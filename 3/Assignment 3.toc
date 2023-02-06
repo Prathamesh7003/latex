@@ -1,9 +1,0 @@
-\contentsline {section}{\numberline {1}Introduction to Latex}{3}{}%
-\contentsline {subsection}{\numberline {1.1}MS Word:}{3}{}%
-\contentsline {paragraph}{MS Word:}{3}{}%
-\contentsline {subsection}{\numberline {1.2}Latex: }{3}{}%
-\contentsline {paragraph}{Latex:}{3}{}%
-\contentsline {section}{\numberline {2}Assignment 1: Table of Content, Section, Subsection and Paragraphs }{4}{}%
-\contentsline {subsection}{\numberline {2.1}Tabular Data Enter:}{4}{}%
-\contentsline {subsection}{\numberline {2.2}Image Insert: }{5}{}%
-\contentsline {section}{\numberline {3}Assignment 2: Mathematical Expressions in Latex:}{7}{}%
